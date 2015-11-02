@@ -104,8 +104,8 @@
                         "bPaginate": false,
                         "aoColumnDefs": [
                         { "bSortable": false, "aTargets": [ 0, 1 ] },
-                        { "bSearchable": false, "aTargets": [ 0, 1 ] },
-                        { "bVisible": false, "aTargets": [ 3 ] }
+                        { "bSearchable": false, "aTargets": [ 0, 1, 3 ] },
+                        { "bVisible": false, "aTargets": [ 3 ] },
                         ],
                         "aoColumns": [
                         { "sWidth": "4%" },
